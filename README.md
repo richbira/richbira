@@ -6,7 +6,11 @@
 - ⚡ Fun fact: I like motivating people and fitness is my passion
 
 
-Visits: ![Visitor Count](https://profile-counter.glitch.me/{richbira}/count.svg)
+
+    <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<richbira>"/>  
+    </div>
 
 
 <!--
