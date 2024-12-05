@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 I'm Richard Rabi aka the HYPEMANù
+
+- 🔭 I’m currently studying Computer Science in Università degli Studi di Milano-Bicocca in Italy
+- 🖥️ I’m working as a Salesforce Consultant & Developer
+- 📫 How to reach me: rabijrichard@gmail.com or instagram @richbira
+- ⚡ Fun fact: I like motivating people and fitness is my passion
+
+![Visitor Count](https://profile-counter.glitch.me/{richbira}/count.svg)
+
 
 <!--
 **richbira/richbira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
